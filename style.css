@@ -14,5 +14,15 @@ img {
 }
 
 h1 {
+  font-family: "Nerko One", cursive;
   color: rgb(169, 44, 44);
+}
+
+.tituloMusicas {
+  color: rgb(149, 24, 24);
+}
+
+ol {
+  background-color: #d35757;
+  color: rgb(125, 26, 26);
 }/*# sourceMappingURL=style.css.map */
